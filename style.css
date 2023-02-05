@@ -75,4 +75,27 @@ form input.operator:hover{
     form input.equal{
         width: 123px;
     }
+    .copyright{
+        font-size: 14px;
+    }
+}
+
+.copyright{
+    color: #ababab;
+    font-weight: 600;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.copyright a{
+    color: #ababab;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.copyright a:hover{
+    color: #dbdbdb;
+    transition: 0.5s;
 }
